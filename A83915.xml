@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The several judgements of the Supreame Court of Parliament, against Alexander Fitton Edward Loyd, John Cade, and John Wright: and against the libel contrived, signed, and published by them and others, against the Right Honourable Charles Lord Gerard, Baron of Brandon.</title>
+            <title>Proceedings. 1663</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83915</idno>
+            <idno type="STC">Wing E2845A</idno>
+            <idno type="STC">ESTC R232065</idno>
+            <idno type="EEBO-CITATION">99900088</idno>
+            <idno type="PROQUEST">99900088</idno>
+            <idno type="VID">170895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170895)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2515:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The several judgements of the Supreame Court of Parliament, against Alexander Fitton Edward Loyd, John Cade, and John Wright: and against the libel contrived, signed, and published by them and others, against the Right Honourable Charles Lord Gerard, Baron of Brandon.</title>
+                  <title>Proceedings. 1663</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill and Christopher Barker, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitton, Alexander, --  Sir, d. 1699 --  Early works to 1800.</term>
+               <term>Macclesfield, Charles Gerard, --  Earl of, 1618?-1694 --  Early works to 1800.</term>
+               <term>Libel and slander --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170895:1"/>
+            <p>The Several JUDGEMENTS OF THE Supreame Court OF PARLIAMENT, AGAINST <hi>Alexander Fitton, Edward Loyd, John Cade,</hi> and <hi>John Wright:</hi> And againſt the Libel Contrived, Signed, and Publiſhed by them and others, againſt the RIGHT HONOURABLE <hi>CHARLES</hi> LORD <hi>GERARD,</hi> Baron of <hi>Brandon.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170895:2"/>
+            <pb n="3" facs="tcp:170895:2"/>
+            <head>The ſeveral Judgements of the Supream Court of Parliament, againſt <hi>Alexander Fitton, Edward Loyd, John Cade,</hi> and <hi>John Wright;</hi> And againſt the Libel, Contrived, Signed, and Publiſhed by them and others, againſt the Right Honourable, <hi>Charles</hi> Lord <hi>Gerard,</hi> Baron of <hi>Brandon.</hi>
+            </head>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die, Jovis, 9<hi rend="sup">o</hi> 
+                        <hi>Julii,</hi> 1663.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas the Houſe hath heard ye<g ref="char:EOLhyphen"/>ſterday at this Bar <hi>Alexander Fit<g ref="char:EOLhyphen"/>ton, Edward Loyd, John Cade,</hi> and <hi>John Wright</hi> by their Council at large, what they could further ſay in defence of themſelves, for contriving, ſigning, and publiſhing a falſe, odious, and in<g ref="char:EOLhyphen"/>famous Libel, ſigned by <hi>Abraham Granger,</hi> againſt the Lord <hi>Gerard</hi> Baron of <hi>Brandon,</hi> a Peer of this Realm, and Member of Parlia<g ref="char:EOLhyphen"/>ment: It is this day Ordered and Adjudged
+<pb n="4" facs="tcp:170895:3"/> by the Lords Spiritual and Temporal in Par<g ref="char:EOLhyphen"/>liament aſſembled, after a very ſerious and de<g ref="char:EOLhyphen"/>liberate conſideration taken by their Lordſhips of the whole matter, That the ſaid Lord <hi>Ge<g ref="char:EOLhyphen"/>rard</hi> is clear and free, and is hereby cleared and freed from all, or any of the matters of, or in the ſaid Libel, And that the ſaid <hi>Alexander Fitton</hi> ſhall undergo the Iudgement of this Houſe as followeth.
+<list>
+                     <item>
+                        <hi>I.</hi> That the ſaid <hi>Alexander Fitton</hi> is hereby Fi<g ref="char:EOLhyphen"/>ned unto His Majeſty in the Sum of Five hundred pounds.</item>
+                     <item>
+                        <hi>II.</hi> That the ſaid Lord <hi>Gerard</hi> is hereby left to his free liberty to proceed at Law for repara<g ref="char:EOLhyphen"/>tion, by occaſion of the ſaid Libel.</item>
+                     <item>
+                        <hi>III.</hi> That the ſaid <hi>Alexander Fitton</hi> ſhall be, and hereby is committed to be kept cloſe Priſo<g ref="char:EOLhyphen"/>ner in the Kings-Bench-Priſon, until he pro<g ref="char:EOLhyphen"/>duce and bring forth the ſaid <hi>Abraham Granger.</hi>
+                     </item>
+                     <item>
+                        <hi>IV.</hi> That the ſaid <hi>Alexander Fitton</hi> ſhall finde good and ſufficient Sureties for the good beha<g ref="char:EOLhyphen"/>viour during life, which is to be taken by the Lord Chief Iuſtice of the Kings Bench.</item>
+                  </list>
+               </p>
+               <p>And their Lordſhips do further Order, and adjudge, That the ſaid <hi>Edward Loyd, John Cade,</hi> and <hi>John Wright,</hi> for their being privy to Sign<g ref="char:EOLhyphen"/>ing and Publiſhing of the ſaid falſe, odious, and infamous Libel, ſhall be impriſoned in the Fleet, there to remain during His Majeſties
+<pb n="5" facs="tcp:170895:3"/> pleaſure, and before their being releaſed ſhall finde good and ſufficient ſecurity for their good behaviour during life, which is to be taken by the ſaid Lord Chief Iuſtice.</p>
+               <closer>
+                  <signed>Jo. Brown Cleric. Par<g ref="char:EOLhyphen"/>liamentorum.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:170895:4"/>
+               <opener>
+                  <dateline>
+                     <date>Die Sabbathi, 11. die <hi>Julii,</hi> 1663.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas the Original Paper de<g ref="char:EOLhyphen"/>livered into this Houſe by <hi>Ed<g ref="char:EOLhyphen"/>ward Loyd,</hi> and ſigned by <hi>Abra<g ref="char:EOLhyphen"/>ham Granger</hi> (entituled, <hi>A Narra<g ref="char:EOLhyphen"/>tive of the horrid and deteſtable De<g ref="char:EOLhyphen"/>ſign of the Lord <hi>Gerard</hi> againſt <hi>A.G.Gr.</hi> in compel<g ref="char:EOLhyphen"/>ling him to Swear againſt Mr. <hi>Alexander Fitton</hi>
+                  </hi>) is by the Iudgement of this Houſe, Declared and Adjudged to be a Falſe, Odious, and In<g ref="char:EOLhyphen"/>famous Libel againſt the Perſon and Honour of the Lord <hi>Gerard</hi> Baron of <hi>Brandon,</hi> a Peer of this Realm, and Member of Parliament: It is this day Ordered by the Lords Spiri<g ref="char:EOLhyphen"/>tual and Temporal in Parliament aſſembled, That Two Copies of the ſaid Libel, which are to be Signed by the Clerk of the Parlia<g ref="char:EOLhyphen"/>ment, ſhall be burnt; One in the <hi>New Palace-Yard</hi> at <hi>Weſtminſter,</hi> by the hand of the Com<g ref="char:EOLhyphen"/>mon Hangman, by the direction and appoint<g ref="char:EOLhyphen"/>ment of the Sheriffs of <hi>London</hi> and <hi>Middle<g ref="char:EOLhyphen"/>ſex</hi> in that behalf; And the other in the Market-place of the City of <hi>Cheſter,</hi> by the direction and appointment of the Mayor of the ſaid City, at ſuch times as the ſaid Lord <hi>Gerard</hi> ſhall appoint.</p>
+               <p>And it is further Ordered, That the ſaid Original Libel, Entituled, <hi>A Narrative, &amp;c.</hi> ſhall not be entred into the Iournal Book of this Houſe amongſt the Records, but ſhall remain in the cuſtody of the Clerk of the Par<g ref="char:EOLhyphen"/>liament, until the ſaid Lord <hi>Gerard</hi> ſhall de<g ref="char:EOLhyphen"/>mand
+<pb n="7" facs="tcp:170895:4"/> it of him; And then the Clerk of the Parliament is hereby Authorized to deliver the ſame to his Lordſhip.</p>
+               <p>And it is laſtly Ordered, That this Or<g ref="char:EOLhyphen"/>der, and the Iudgement of this Houſe, bear<g ref="char:EOLhyphen"/>ing date the Ninth day of this inſtant <hi>July,</hi> ſhall be forthwith Printed and Publiſhed by ſuch perſon or perſons as the Lord <hi>Gerard</hi> ſhall appoint and direct, for the fuller vindi<g ref="char:EOLhyphen"/>cation of his Lordſhip.</p>
+               <closer>
+                  <signed>
+                     <hi>JO. BROWN,</hi> Cleric. Parliamentorum.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Bar<g ref="char:EOLhyphen"/>ker,</hi> Printers to the Kings moſt Excellent Majeſty, 1663.</p>
+            <pb facs="tcp:170895:5" rendition="simple:additions"/>
+            <p>
+               <add>Mr Fittons ſentence for lybelling y<hi rend="sup">e</hi> Lord Gerard.</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
